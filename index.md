@@ -2,5 +2,5 @@
 
 # [Click-Here](http://evil.com/) !!!!!!!!!!!! 
 
-> [!NOTE!]
-> This is a Proof of Cencept for Bugcrowd!
+> [!CAUTION]
+> **This is a Proof of Cencept for Bugcrowd**
